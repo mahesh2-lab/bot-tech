@@ -25,6 +25,17 @@ a
 }
 h1
 {
+				position: relative;
+				right: 60px;
 				color: #fff;
 				
 }
+p
+{
+				position: relative;
+				top: -100px;
+				left: 100px;
+				color: #fff;
+}
+
+ 
